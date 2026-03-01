@@ -156,7 +156,7 @@ export default function LeadCapture() {
                   className="text-xs leading-relaxed text-cream-dim/70 cursor-pointer"
                 >
                   By checking this box, I agree to receive automated messages
-                  from NorthGrid Camp for booking alerts and support. Message and
+                  from NorthGrid Limited for booking alerts and support. Message and
                   data rates may apply. Reply STOP to opt-out.
                 </label>
               </div>

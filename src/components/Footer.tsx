@@ -27,7 +27,7 @@ export default function Footer() {
               </span>
             </div>
             <span className="font-serif text-lg text-cream">
-              NorthGrid Camp
+              NorthGrid Limited
             </span>
           </div>
 
@@ -57,7 +57,7 @@ export default function Footer() {
             parties.
           </p>
           <p className="text-xs text-cream-dim/30">
-            &copy; {new Date().getFullYear()} NorthGrid Camp. All rights
+            &copy; {new Date().getFullYear()} NorthGrid Limited. All rights
             reserved.
           </p>
         </div>

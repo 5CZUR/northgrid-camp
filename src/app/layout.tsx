@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "NorthGrid Camp | Autonomous Concierge for Outdoor Hospitality",
+  title: "NorthGrid Limited | Autonomous Concierge for Outdoor Hospitality",
   description:
     "Seamlessly orchestrate reservations and revenue with the first autonomous concierge for RV parks and glamping resorts.",
 };
